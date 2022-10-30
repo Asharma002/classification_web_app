@@ -1,0 +1,1 @@
+p = np.argmax(model.predict(i))
